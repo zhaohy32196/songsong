@@ -14,6 +14,8 @@ public class SongSong {
 
         System.out.println("12w3fds;alsdfdjksdjkl");
         System.out.println("sdflksdfjsdjklfklsdfsdjklf");
+
+        System.out.println("");
     }
 }
 //一起去练葵花宝典
